@@ -17,8 +17,9 @@ You can view the live version of the portfolio at the following link:
 
 ## Technologies Used
 
-- React
-- Tailwind CSS
+- HTML
+- CSS
+- Javascript
 - Vercel for deployment
 
 ## Installation
